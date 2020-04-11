@@ -13,5 +13,15 @@ module.exports = (app, passport) => {
     app.post('/login', (req, res) => {
         
     });
+
+    app.get('/signup', (req, res) => {
+        res.render('signup', {
+            menssage: req.flash('signupMessage')
+        });
+    });
+
+    app.post('/signup', (req, res) => {
+        
+    });
     
 }

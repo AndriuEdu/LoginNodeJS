@@ -3,18 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login </title>    
+    <title>Register</title>    
     <%- include ('./partials/head') -%>
 </head>
-<body class="login">
+<body class="signup">    
     <div class="container">
         <div class="col-sm-6 mx-auto">
             <div class="card mt-5">
                 <div class="card-body">
                     <h1 class="text-center">
-                        <span class="fa fa-sign-in"></span> Login
+                        <span class="fa fa-sign-in"></span> Register
                     </h1>
-
                     <form action="/login" method="post">
                         <div class="form-group">
                             <label for="email">E-mail</label>
@@ -28,7 +27,7 @@
                     </form>
                     <hr>
                     <div class="text-center">
-                        <p>Need an account? <a href="/signup">SignUp</a></p>
+                        <p>Alredy have an account? <a href="/login">Login</a></p>
                         <p>Or go <a href="/">Home</a></p>
                     </div>
                 </div>

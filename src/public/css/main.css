@@ -5,13 +5,13 @@
 }
 
 .signup{
-    background: #56ab2f;
-    background: -webkit-linear-gradient(to right, #aBe063, #56ab2f);
-    background: linear-gradient(to right,#aBe063, #56ab2f);
+    background: #000428;
+    background: -webkit-linear-gradient(to right, #004e92, #000428);
+    background: linear-gradient(to right,#004e92, #000428);
 }
 
 .ClaIndex{
-    background: #2f46ab;
-    background: -webkit-linear-gradient(to right, rgb(107, 99, 224), #2f46ab);
-    background: linear-gradient(to right,rgb(107, 99, 224), #2f46ab);
+    background: #db1e1e;
+    background: -webkit-linear-gradient(to right, #ce5454, #db1e1e);
+    background: linear-gradient(to right,#ce5454, #db1e1e);
 }
