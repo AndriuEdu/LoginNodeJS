@@ -1,0 +1,17 @@
+.login{
+    background: #56ab2f;
+    background: -webkit-linear-gradient(to right, #aBe063, #56ab2f);
+    background: linear-gradient(to right,#aBe063, #56ab2f);
+}
+
+.signup{
+    background: #56ab2f;
+    background: -webkit-linear-gradient(to right, #aBe063, #56ab2f);
+    background: linear-gradient(to right,#aBe063, #56ab2f);
+}
+
+.ClaIndex{
+    background: #2f46ab;
+    background: -webkit-linear-gradient(to right, rgb(107, 99, 224), #2f46ab);
+    background: linear-gradient(to right,rgb(107, 99, 224), #2f46ab);
+}

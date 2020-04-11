@@ -1,0 +1,14 @@
+Iniciar e instalar
+- npm init --yes
+- npm i 
+ * express (servidor manera eficiente) 
+ * express-session (manejar las sesiones) 
+ * cookie-parser (administra las sesiones en el navegador) 
+ * connect-flash (mensajes cuando hay errores)
+ * ejs (lector de plantillas)
+ * bcrypt-nodejs (modo de encriptar)
+ * body-parser (captar peticiones)
+ * mongoose (definir datos en MDB)
+ * morgan (htt)p peticiones muestra por consola)
+ * passport ()
+ * passport-local ()
